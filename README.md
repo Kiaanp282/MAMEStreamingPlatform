@@ -1,6 +1,7 @@
 # **SDL MAME Cloud Gaming** #
+Open the warden gate
 
-What is MAME?
+What is MAME
 =============
 
 MAME is a multi-purpose emulation framework.
